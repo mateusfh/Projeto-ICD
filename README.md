@@ -23,4 +23,4 @@ Como segundo passo do projeto vocês tem as seguintes tarefas:
 3. Colocar o(s) dataset(s) utilizados no repositório - OK
 4. Criar um Jupyter Notebook para iniciar a exploração dos datasets - OK
 5. No notebook, calcular medidas de centralidade e dispersão dos valores disponíveis nos datasets - OK
-6. No notebook, criar boxplots para os dados disponíveis nos datasets
+6. No notebook, criar boxplots para os dados disponíveis nos datasets - OK
